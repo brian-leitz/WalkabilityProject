@@ -1,0 +1,64 @@
+*{
+    margin: 5;
+    padding: 5;
+    color: rgb(1, 1, 15);
+    font-family: Parish;
+}
+
+
+
+.container{
+    margin-right: 100px;
+    margin-right: 100px;
+ 
+}
+ logo{
+    margin-top: 30vh;
+    width: 350vh;
+    height: 200vh;
+}
+.nav-links {
+    float: right;
+}
+.nav-links ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav-links li{
+    display: inline-block;
+   margin-left: 70px;
+
+}
+.scatter{
+    position:center;
+    left: 0;
+    right:0;
+    bottom:0;
+    width: 100%;
+    height: 10%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  blockquote {
+    padding: 20px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+      0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+  }
+
+  .border-box {
+    box-sizing: border-box;
+     Total width: 45px
+       Total height: 45px
+       Content box width: 45px - (2 * 20px) - (2 * 8px) = 104px
+       Content box height: 45px - (2 * 20px) - (2 * 8px) = 24px */
+  }
+
+  

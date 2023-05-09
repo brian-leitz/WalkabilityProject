@@ -1,4 +1,4 @@
-## WalkabilityProject
+## Walkability Project - On the city of Detroit
 
 ## Introduction:
 Detroit's walkability project presented on this GitHub page aims to analyze and visualize walkability in the city and provide recommendations for improving pedestrian infrastructure. To achieve this goal, the project uses a variety of tools, including Python, Pandas, ArcGIS, HTML, CSS, and JS to clean, process, analyze, and visualize data related to walkability in Detroit. The original dataset used in the project was obtained from the website https://catalog.data.gov/dataset/walkability-index. By leveraging these tools, the project can provide valuable insights into pedestrian infrastructure and potential areas for improvement, which can help make Detroit a safer, more attractive, and more accessible city for all residents and visitors. With its rich history as a hub for music and culture, improving walkability in Detroit can help to address challenges such as urban decay and crime and create a more sustainable and livable city for years to come.
